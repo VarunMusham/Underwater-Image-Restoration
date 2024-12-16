@@ -28,15 +28,3 @@ Put the pair training images into "./dataset", and changes the option "--train_r
 python train.py --gpu YOUR_DEVICE
 ```
 
-## Citation
-
-If you find SCEIR is useful in your research, please cite our paper:
-```
-@article{gao2023atmospheric,
-  title={Atmospheric Scattering Model Induced Statistical Characteristics Estimation for Underwater Image Restoration},
-  author={Gao, Shuaibo and Wu, Wenhui and Li, Hua and Zhu, Linwei and Wang, Xu},
-  journal={IEEE Signal Processing Letters},
-  year={2023},
-  publisher={IEEE}
-}
-```
